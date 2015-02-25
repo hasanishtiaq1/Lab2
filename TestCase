@@ -1,0 +1,8 @@
+package com.lab2.www;
+
+public class TestingClass {
+	public static void main(String[] args) {
+	Interpretor obj = new Interpretor();
+	Interpretor.readFile();
+	}
+}
